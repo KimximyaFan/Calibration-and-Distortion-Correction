@@ -1,5 +1,7 @@
 # Calibration-and-Distortion-Correction
 
+(원본 영상은 33mb여서 깃허브에 올릴 수가 없으므로 용량압축 처리한 영상을 저장소에 올렸음)
+
 Calibration 결과
 <br>
 
