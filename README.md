@@ -27,7 +27,9 @@ Calibration 결과
 적당히 근사시키면
 
 K = np.array([[1803.2, 0, 899.3],
+
             [0, 1820, 529.5],
+            
             [0, 0, 1]])
 
 fx = 1803.2 쯤되고
@@ -49,9 +51,13 @@ distortion coef은
 이다.
 
 k1 = 0.035
+
 k2 = 0.2
+
 p1 = -0.00034
+
 p2 = -0.00663
+
 k3 = -0.89 이다
 
 ## geometric distortion correction
